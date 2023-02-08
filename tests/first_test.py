@@ -18,4 +18,4 @@ class TestCalc:
         assert self.calc.subtraction(self, 11, 3) == 8
 
     def test_adding_calculate_correctly(self):
-        assert self.calc.adding(self, 4, 3) == 7
+        assert self.calc.adding(self, 5, 2) == 7
